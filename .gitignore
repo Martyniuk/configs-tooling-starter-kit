@@ -1,0 +1,15 @@
+.idea
+.vscode
+
+.DS_Store
+
+node_modules/
+dist/
+cache/
+coverage/
+
+notes.md
+
+*.log
+
+package-lock.json
